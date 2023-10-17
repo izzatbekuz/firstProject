@@ -1,0 +1,44 @@
+.navCont {
+  background-color: darkmagenta;
+  width: 100%;
+  height: 50px;
+  margin: 0 auto;
+
+}
+a {
+  position: relative;
+  left: 900px;
+  top: 10px;
+  color: azure;
+}
+img {
+  width: 700px;
+  background-repeat: no-repeat;
+  position: relative;
+  left: 600px;
+}
+h2{
+    position: relative;
+    left: 600px;
+    width: 700px;
+}
+h3{
+    position: relative;
+    left: 600px;
+    width: 700px;
+}
+h4{
+    position: relative;
+    left: 600px;
+    width: 700px;
+   
+}
+.navCont1{
+    border-radius: 100px;
+}
+body{
+    margin: 0;
+}h1{
+    color: darkred;
+    text-align: center;
+}
